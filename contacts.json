@@ -1,0 +1,23 @@
+{
+    "contact1": {
+        "firstName": "Lindsay",
+        "lastName": "Seegmiller",
+        "email": "lindsay@nrcpa.cpm",
+        "favoriteColor": "pink",
+        "birthday": "12/22/1999"
+    },
+     "contact2": {
+        "firstName": "Adam",
+        "lastName": "Seegmiller",
+        "email": "aseegm@gmail.com",
+        "favoriteColor": "Green",
+        "birthday": "11/1/1972"
+    },
+     "contact3": {
+        "firstName": "Paula",
+        "lastName": "Seegmiller",
+        "email": "pseegm6@gmail.com",
+        "favoriteColor": "Blue",
+        "birthday": "5/23/1971"
+    }
+}
